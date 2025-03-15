@@ -1,4 +1,4 @@
-// Penerapan operator relasional
+// Penerapan Operator Relasional
 import 'dart:io';
 
 void main(List<String> args) {
