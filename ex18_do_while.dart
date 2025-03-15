@@ -1,8 +1,8 @@
 // Struktur Perulangan Menggunakan do-while
 import 'dart:io';
 
-const String USERNAME = 'admin';
-const String PASSWORD = 'demo123';
+const String USERNAME = 'Frans';
+const String PASSWORD = 'semogacepatlulus';
 
 void main(List<String> args) {
   int i = 0;
