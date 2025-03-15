@@ -1,4 +1,4 @@
-// Operator lainnya
+// Operator Lainnya
 void main(List<String> args) {
   print(2 is int);
   print(2 is num);
